@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="bootset:jar">
+    <output-path>$PROJECT_DIR$/../KeepUrDiskAlive/release</output-path>
+    <root id="archive" name="bootset.jar">
+      <element id="module-output" name="bootset" />
+    </root>
+  </artifact>
+</component>
